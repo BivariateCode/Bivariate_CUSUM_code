@@ -1,0 +1,2 @@
+h	p1	prior1	prior2	prior3	prior4	rho1	rho2	Tar_ARL0	Est_ARL0	sd_RLs	tot_RLs	functName
+2.933	0.45	22.05	21	9.5	10	1.05	0.95	50	49.98	103.7	10000	Biv8_CUSUM_TimeVar
