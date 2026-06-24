@@ -1,0 +1,15 @@
+ObtainClims start | targetARL0= 62  | h_init= 0.01 
+iter= 1  | sizeIndex= 1  | N= 100  | eps= 10  | h= 0.01  | ARL= 2.72  | j= 100  | blowup= FALSE 
+iter= 2  | sizeIndex= 1  | N= 100  | eps= 10  | h= 0.04124528  | ARL= 5.3  | j= 100  | blowup= FALSE 
+Case8 (LogInterp) 
+iter= 3  | sizeIndex= 1  | N= 100  | eps= 10  | h= 0.156443  | ARL= 13.34  | j= 100  | blowup= FALSE 
+Case8 (LogInterp) 
+iter= 4  | sizeIndex= 1  | N= 100  | eps= 10  | h= 0.3481813  | ARL= 26.46  | j= 100  | blowup= FALSE 
+Case8 (LogInterp) 
+iter= 5  | sizeIndex= 1  | N= 100  | eps= 10  | h= 0.5865709  | ARL= 38.04  | j= 100  | blowup= FALSE 
+Case8 (LogInterp) 
+iter= 6  | sizeIndex= 1  | N= 100  | eps= 10  | h= 0.9073729  | ARL= 79.06  | j= 100  | blowup= FALSE 
+Case8 (LogInterp) 
+iter= 7  | sizeIndex= 1  | N= 100  | eps= 10  | h= 0.8007825  | ARL= 61.36  | j= 100  | blowup= FALSE 
+iter= 8  | sizeIndex= 2  | N= 200  | eps= 9  | h= 0.8007825  | ARL= 63.89  | j= 200  | blowup= FALSE 
+Finished | h= 0.8007825  | ARL= 63.89  | sd= 50.44892  | j= 200 
